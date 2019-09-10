@@ -1,0 +1,12 @@
+﻿make,model,year,mileage,color,electric,body
+bmw,x3,2010,125000,blue,,suv
+ford,f150,2015,100000,blue,,truck
+ford,f250,2014,150000,red,,truck
+chevy,volt,2012,100000,white,y,car
+volvo,xc60,2011,230000,black,,suv
+kia,sportage,2019,55000,black,,suv
+kira,soul,2019,5000,green,,car
+kia,soul,2017,43000,green,,car
+tesla,Three,2019,1000,red,y,car
+toyota,corrola,2016,200000,white,,car
+toyota,camry,2017,43000,black,,car
